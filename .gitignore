@@ -1,6 +1,5 @@
 # 3rd part lib #
 ################
-transwarp
 
 # Compiled source #
 ###################
@@ -29,7 +28,6 @@ transwarp
 # Logs and databases #
 ######################
 *.log
-*.sql
 *.sqlite
 
 # OS generated files #
